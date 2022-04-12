@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.ipp": "cpp",
+        "proc.h": "c",
+        "user.h": "c",
+        "defs.h": "c",
+        "param.h": "c",
+        "memlayout.h": "c",
+        "mutex": "c",
+        "condition_variable": "c",
+        "chrono": "c",
+        "random": "c",
+        "limits": "c",
+        "semaphore": "c",
+        "valarray": "c",
+        "algorithm": "c",
+        "stat.h": "c"
+    }
+}
